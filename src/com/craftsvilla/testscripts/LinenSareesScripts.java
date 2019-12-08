@@ -18,7 +18,12 @@ public class LinenSareesScripts extends BaseTest
 	LinenSareesPage lp = null;
 	ProductDescriptionPage pd = null;
 	CheckOutPage cp = null;
-	
+/*
+ * 
+ * 
+ * 
+ * 	
+ */
 	@Test
 	public void TC_01_linenSareeScript()
 	{
@@ -38,6 +43,12 @@ public class LinenSareesScripts extends BaseTest
 		cp.captureOTPMessage();
 		cp.setOTP("8695");
 		cp.clickOnLogin();
+		
+	}
+	
+	@Test
+	public void TC_02_linenSarees()
+	{
 		
 	}
 
