@@ -1,0 +1,92 @@
+2019-12-07 20:53:11 ERROR BasePage:50 - Proxy element for: DefaultElementLocator 'By.xpath: //a[@href="/womens-clothing/sarees/?MID=megamenu_sarees_seeall"]'was not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //a[@href="/womens-clothing/sarees/?MID=megamenu_sarees_seeall"]' (tried for 10 second(s) with 500 milliseconds interval)
+2019-12-07 20:53:11 ERROR BasePage:65 - Unable to mouse over on Proxy element for: DefaultElementLocator 'By.xpath: //a[@href="/womens-clothing/sarees/?MID=megamenu_sarees_seeall"]' : org.openqa.selenium.json.JsonException: java.lang.reflect.InvocationTargetException
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: driver.version: RemoteWebDriver
+2019-12-07 20:53:11 INFO  BasePage:98 - 
+2019-12-07 20:53:21 ERROR BasePage:50 - Proxy element for: DefaultElementLocator 'By.linkText: Linen Sarees'was not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.linkText: Linen Sarees' (tried for 10 second(s) with 500 milliseconds interval)
+2019-12-07 20:56:04 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (46390841a839712b401296d6956890c4)] -> xpath: //a[@href="/womens-clothing/sarees/?MID=megamenu_sarees_seeall"]]was found
+2019-12-07 20:56:05 INFO  BasePage:61 - MouseOvered on [[ChromeDriver: chrome on XP (46390841a839712b401296d6956890c4)] -> xpath: //a[@href="/womens-clothing/sarees/?MID=megamenu_sarees_seeall"]]
+2019-12-07 20:56:05 INFO  BasePage:98 - 
+2019-12-07 20:56:06 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (46390841a839712b401296d6956890c4)] -> link text: Linen Sarees]was found
+2019-12-07 20:56:13 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (46390841a839712b401296d6956890c4)] -> xpath: //img[contains(@src,'1537544423-Craftsvilla_1.jpg')]]was found
+2019-12-07 20:56:24 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (46390841a839712b401296d6956890c4)] -> id: buynow]was found
+2019-12-07 20:56:30 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (46390841a839712b401296d6956890c4)] -> id: login-mobile]was found
+2019-12-07 20:56:31 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (46390841a839712b401296d6956890c4)] -> id: js-otp-message]was found
+2019-12-07 20:56:32 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (46390841a839712b401296d6956890c4)] -> id: js-lg-otp]was found
+2019-12-07 20:56:32 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (46390841a839712b401296d6956890c4)] -> xpath: //button[text()='Login With OTP']]was found
+2019-12-07 21:13:10 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> xpath: //span[text()='Sign In']]was found
+2019-12-07 21:13:11 INFO  BasePage:69 - 
+2019-12-07 21:13:11 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> id: emailId]was found
+2019-12-07 21:13:13 INFO  BasePage:79 - abitha12345.j@gmail.com has been set to [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> id: emailId]
+2019-12-07 21:13:13 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> id: continueBtn]was found
+2019-12-07 21:13:13 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> id: continueBtn]
+2019-12-07 21:13:14 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> id: js-password]was found
+2019-12-07 21:13:14 INFO  BasePage:107 - Apple12346 has been set to [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> id: js-password]
+2019-12-07 21:13:14 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> id: loginCheck]was found
+2019-12-07 21:13:15 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> id: loginCheck]
+2019-12-07 21:13:22 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> xpath: //span[text()='My Account']]was found
+2019-12-07 21:13:22 INFO  BasePage:61 - MouseOvered on [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> xpath: //span[text()='My Account']]
+2019-12-07 21:13:23 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> xpath: //img[@class='logout-icon mr-2']]was found
+2019-12-07 21:13:27 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> xpath: //span[text()='Sign In']]was found
+2019-12-07 21:13:27 INFO  BasePage:69 - 
+2019-12-07 21:13:28 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> id: emailId]was found
+2019-12-07 21:13:29 INFO  BasePage:79 - sudarshan@gmail.com has been set to [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> id: emailId]
+2019-12-07 21:13:29 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> id: continueBtn]was found
+2019-12-07 21:13:30 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> id: continueBtn]
+2019-12-07 21:13:30 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> id: js-password]was found
+2019-12-07 21:13:31 INFO  BasePage:107 - Apple12347 has been set to [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> id: js-password]
+2019-12-07 21:13:32 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> id: loginCheck]was found
+2019-12-07 21:13:32 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> id: loginCheck]
+2019-12-07 21:13:38 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> xpath: //span[text()='My Account']]was found
+2019-12-07 21:13:38 INFO  BasePage:61 - MouseOvered on [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> xpath: //span[text()='My Account']]
+2019-12-07 21:13:38 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (977c3146f40253fd3a777c2b14823c37)] -> xpath: //img[@class='logout-icon mr-2']]was found
+2019-12-07 21:19:08 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> xpath: //span[text()='Sign In']]was found
+2019-12-07 21:19:08 INFO  BasePage:69 - 
+2019-12-07 21:19:09 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: emailId]was found
+2019-12-07 21:19:10 INFO  BasePage:79 - abitha12345.j@gmail.com has been set to [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: emailId]
+2019-12-07 21:19:11 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: continueBtn]was found
+2019-12-07 21:19:11 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: continueBtn]
+2019-12-07 21:19:12 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: js-password]was found
+2019-12-07 21:19:12 INFO  BasePage:107 - Apple12346 has been set to [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: js-password]
+2019-12-07 21:19:13 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: loginCheck]was found
+2019-12-07 21:19:13 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: loginCheck]
+2019-12-07 21:19:19 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> xpath: //span[text()='My Account']]was found
+2019-12-07 21:19:20 INFO  BasePage:61 - MouseOvered on [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> xpath: //span[text()='My Account']]
+2019-12-07 21:19:20 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> xpath: //img[@class='logout-icon mr-2']]was found
+2019-12-07 21:19:23 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> xpath: //span[text()='Sign In']]was found
+2019-12-07 21:19:24 INFO  BasePage:69 - 
+2019-12-07 21:19:25 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: emailId]was found
+2019-12-07 21:19:26 INFO  BasePage:79 - sudarshan@gmail.com has been set to [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: emailId]
+2019-12-07 21:19:26 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: continueBtn]was found
+2019-12-07 21:19:26 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: continueBtn]
+2019-12-07 21:19:27 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: js-password]was found
+2019-12-07 21:19:28 INFO  BasePage:107 - Apple12347 has been set to [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: js-password]
+2019-12-07 21:19:28 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: loginCheck]was found
+2019-12-07 21:19:28 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: loginCheck]
+2019-12-07 21:19:42 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> xpath: //span[text()='My Account']]was found
+2019-12-07 21:19:42 INFO  BasePage:61 - MouseOvered on [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> xpath: //span[text()='My Account']]
+2019-12-07 21:19:43 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> xpath: //img[@class='logout-icon mr-2']]was found
+2019-12-07 21:19:46 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> xpath: //span[text()='Sign In']]was found
+2019-12-07 21:19:47 INFO  BasePage:69 - 
+2019-12-07 21:19:48 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: emailId]was found
+2019-12-07 21:19:49 INFO  BasePage:79 - yomi@gmail.com has been set to [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: emailId]
+2019-12-07 21:19:49 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: continueBtn]was found
+2019-12-07 21:19:49 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: continueBtn]
+2019-12-07 21:19:50 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: js-password]was found
+2019-12-07 21:19:51 INFO  BasePage:107 - Apple12348 has been set to [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: js-password]
+2019-12-07 21:19:51 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: loginCheck]was found
+2019-12-07 21:19:51 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> id: loginCheck]
+2019-12-07 21:19:57 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> xpath: //span[text()='My Account']]was found
+2019-12-07 21:19:57 INFO  BasePage:61 - MouseOvered on [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> xpath: //span[text()='My Account']]
+2019-12-07 21:19:58 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (ac066f924be82cd9a53628b00d9bb2ea)] -> xpath: //img[@class='logout-icon mr-2']]was found
+2019-12-07 21:26:56 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (1b70469b826609bf613f132aa8101836)] -> xpath: //a[@href="/womens-clothing/sarees/?MID=megamenu_sarees_seeall"]]was found
+2019-12-07 21:26:56 INFO  BasePage:61 - MouseOvered on [[ChromeDriver: chrome on XP (1b70469b826609bf613f132aa8101836)] -> xpath: //a[@href="/womens-clothing/sarees/?MID=megamenu_sarees_seeall"]]
+2019-12-07 21:26:56 INFO  BasePage:98 - 
+2019-12-07 21:26:58 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (1b70469b826609bf613f132aa8101836)] -> link text: Linen Sarees]was found
+2019-12-07 21:27:04 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (1b70469b826609bf613f132aa8101836)] -> xpath: //img[contains(@src,'1537544423-Craftsvilla_1.jpg')]]was found
+2019-12-07 22:00:54 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (5e85c24ec2928739bcecedfe7c61b486)] -> xpath: //a[@href="/womens-clothing/sarees/?MID=megamenu_sarees_seeall"]]was found
+2019-12-07 22:00:55 INFO  BasePage:61 - MouseOvered on [[ChromeDriver: chrome on XP (5e85c24ec2928739bcecedfe7c61b486)] -> xpath: //a[@href="/womens-clothing/sarees/?MID=megamenu_sarees_seeall"]]
+2019-12-07 22:00:55 INFO  BasePage:98 - 
+2019-12-07 22:00:57 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (5e85c24ec2928739bcecedfe7c61b486)] -> link text: Linen Sarees]was found
+2019-12-07 22:01:09 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (5e85c24ec2928739bcecedfe7c61b486)] -> xpath: //img[contains(@src,'1537544423-Craftsvilla_1.jpg')]]was found

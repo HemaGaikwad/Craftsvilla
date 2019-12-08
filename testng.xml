@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Craftsvilla">
+  <parameter name="browser" value="chrome"></parameter>
+<listeners>
+<listener class-name="com.craftsvilla.generic.CaptureScreenshot"></listener>
+</listeners>
+
+  <test  name="Regression">
+  <classes>
+  <class name="com.craftsvilla.testscripts.LinenSareesScripts"></class>
+  </classes>
+  </test> <!-- Regression -->
+</suite> <!-- Craftsvilla -->
